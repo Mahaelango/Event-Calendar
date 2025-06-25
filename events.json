@@ -10,5 +10,47 @@
     "start": "14:00",
     "end": "15:00",
     "date": "2025-06-26"
+  },
+  {
+    "title": "Strategy Planning Meeting",
+    "start": "10:00",
+    "end": "11:30",
+    "date": "2025-06-30"
+  },
+  {
+    "title": "Client Presentation",
+    "start": "14:00",
+    "end": "15:00",
+    "date": "2025-07-01"
+  },
+  {
+    "title": "Performance Review Discussion",
+    "start": "11:00",
+    "end": "12:00",
+    "date": "2025-07-02"
+  },
+  {
+    "title": "Weekly Team Sync",
+    "start": "09:30",
+    "end": "10:00",
+    "date": "2025-07-03"
+  },
+  {
+    "title": "Budget Planning Session",
+    "start": "15:30",
+    "end": "16:30",
+    "date": "2025-07-03"
+  },
+  {
+    "title": "Leadership Roundtable",
+    "start": "10:00",
+    "end": "11:00",
+    "date": "2025-07-04"
+  },
+  {
+    "title": "Quarterly Business Review",
+    "start": "13:30",
+    "end": "15:00",
+    "date": "2025-07-04"
   }
 ]
